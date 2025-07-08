@@ -6,7 +6,7 @@
 
 Universities today face an invisible epidemic- social media addiction. It’s not just about wasted time; it’s about eroded focus, disrupted sleep, poor mental health, and academic decline. This project explores those connections using real student data and delivers **insights + predictions** that stakeholders can act on.
 
-If you’ve ever wondered how digital behavior shapes academic outcomes, this notebook has the answers — backed by numbers, logic, and a clear call to action.
+If you’ve ever wondered how digital behavior shapes academic outcomes, this notebook has the answers- backed by numbers, logic, and a clear call to action.
 
 ## Problem Statement
 
