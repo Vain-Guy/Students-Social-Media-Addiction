@@ -7,8 +7,8 @@
 Universities today face a quiet crisis: students glued to screens, distracted in lectures, and trading sleep for scrolling.  
 But this project goes beyond anecdote—it’s a data-driven diagnosis of **how digital behavior affects academic performance**.
 
-Using real student survey data, we built a complete pipeline—from raw behavior to predictive modeling to behavioral tribe clustering.  
-> If you’ve ever asked, “Is Instagram tanking my GPA?”—this notebook gives answers.
+Using real student survey data, we built a complete pipeline- from raw behavior to predictive modeling to behavioral tribe clustering.  
+> If you’ve ever asked, “Is Instagram tanking my GPA?”- this notebook gives answers.
 
 ## Problem Statement
 
@@ -102,7 +102,7 @@ We used **PCA + KMeans + t-SNE** to segment students into **4 behavioral tribes*
 | **Cluster 2** | Mindful minimalists—low usage, high mental health |
 | **Cluster 3** | Strained socialites—high usage, low rest, socially overwhelmed |
 
-Each tribe was profiled via radar plots, heatmaps, and platform preferences—fueling **targeted intervention strategies**.
+Each tribe was profiled via radar plots, heatmaps, and platform preferences- fueling **targeted intervention strategies**.
 
 ## Visualizations
 
@@ -142,7 +142,7 @@ MIT License. Use it ethically. Build systems that care.
 ## Final Word
 
 This project isn’t anti-social media. It’s **pro-awareness**.  
-It’s about seeing the warning signs early—when a student’s only crime is checking TikTok at 3 AM on a Tuesday.
+It’s about seeing the warning signs early- when a student’s only crime is checking TikTok at 3 AM on a Tuesday.
 
 > Because the most powerful notifications don’t come from apps…  
 > They come from systems that understand, predict, and care.
